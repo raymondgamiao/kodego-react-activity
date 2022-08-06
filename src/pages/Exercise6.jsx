@@ -1,5 +1,5 @@
 import React from "react";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 
 function Exercise6() {
   const [greet, setGreet] = useState({

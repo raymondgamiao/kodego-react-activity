@@ -1,13 +1,16 @@
 import React from "react";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 
 function Exercise3() {
   const [count, setCount] = useState(0);
+  const increaseCount = () => {
+    setCount((currentNum) => currentNum + 1);
+  };
 
   return (
     <div>
       <p>Button has been clicked: {count} times </p>
-      <button onClick={() => setCount(count + 1)}>Click me</button>
+      <button onClick={increaseCount}>Click me</button>
     </div>
   );
 }
