@@ -3,6 +3,7 @@ import { useState } from "react";
 
 function Exercise3() {
   const [count, setCount] = useState(0);
+
   const increaseCount = () => {
     setCount((currentNum) => currentNum + 1);
   };

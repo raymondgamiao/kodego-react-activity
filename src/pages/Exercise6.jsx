@@ -8,10 +8,10 @@ function Exercise6() {
   });
 
   function handleFnameChange(e) {
-    setGreet({
-      ...greet,
+    setGreet((prev) => ({
+      ...prev,
       fname: e.target.value,
-    });
+    }));
   }
 
   function handleLnameChange(e) {
