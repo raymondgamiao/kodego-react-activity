@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/raymondgamiao/react-gh-pages/static/css/main.347ee31a.css",
-    "main.js": "/raymondgamiao/react-gh-pages/static/js/main.28c6a364.js",
-    "index.html": "/raymondgamiao/react-gh-pages/index.html",
-    "main.347ee31a.css.map": "/raymondgamiao/react-gh-pages/static/css/main.347ee31a.css.map",
-    "main.28c6a364.js.map": "/raymondgamiao/react-gh-pages/static/js/main.28c6a364.js.map"
+    "main.css": "/github.io/kodego-react-activity/static/css/main.347ee31a.css",
+    "main.js": "/github.io/kodego-react-activity/static/js/main.28c6a364.js",
+    "index.html": "/github.io/kodego-react-activity/index.html",
+    "main.347ee31a.css.map": "/github.io/kodego-react-activity/static/css/main.347ee31a.css.map",
+    "main.28c6a364.js.map": "/github.io/kodego-react-activity/static/js/main.28c6a364.js.map"
   },
   "entrypoints": [
     "static/css/main.347ee31a.css",
